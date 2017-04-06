@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Exported from [server]</comment>
+<entry key="categoryPath">testactions</entry>
+<entry key="name">action_b</entry>
+<entry key="type">ScriptModule</entry>
+<entry key="id">36f985a5-c7ee-45a3-8a14-2bd0e6a3b0a8</entry>
+</properties>

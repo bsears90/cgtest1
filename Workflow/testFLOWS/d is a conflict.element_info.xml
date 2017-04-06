@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Exported from [server]</comment>
+<entry key="categoryPath">testFLOWS</entry>
+<entry key="name">d is a conflict</entry>
+<entry key="type">Workflow</entry>
+<entry key="id">bb4d1b66-ff5f-4a17-8efc-99e963d950c8</entry>
+</properties>

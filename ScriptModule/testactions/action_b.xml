@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dunes-script-module name="action_b" result-type="void" api-version="6.0.0" id="36f985a5-c7ee-45a3-8a14-2bd0e6a3b0a8" version="0.0.0" allowed-operations="vef">
+  <script encoded="false"><![CDATA[System.log("K");]]></script>
+</dunes-script-module>

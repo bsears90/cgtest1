@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Exported from [server]</comment>
+<entry key="categoryPath">testFLOWS</entry>
+<entry key="name">a upgrade</entry>
+<entry key="type">Workflow</entry>
+<entry key="id">af43ec53-120b-4b26-adb6-1695d35bb48a</entry>
+</properties>
